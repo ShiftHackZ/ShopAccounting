@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Shop Accounting</string>
+    <string name="PRODUCT_ID">PRDID</string>
+    <string name="CATEGORY_ID">CATID</string>
+    <string name="CATEGORY_NAME">CATNAME</string>
+    <string name="txt_default_name">Name</string>
+    <string name="txt_default_surname">Surname</string>
+    <string name="txt_default_fathername">Father\'s name</string>
+    <string name="btn_text_get_user">GET USER</string>
+    <string name="et_hint_enter_user_id">Enter category ID</string>
+    <string name="txt_def_error">Error</string>
+    <string name="et_hint_enter_product_name">Введите название товара</string>
+    <string name="btn_text_add_user">Add User</string>
+    <string name="text_add_response_message">Add response message</string>
+    <string name="btn_text_save">ОБНОВИТЬ</string>
+    <string name="btn_text_change">ИЗМЕНИТЬ</string>
+    <string name="btn_text_delete_user">Delete User</string>
+    <string name="text_file_select">Select File to upload</string>
+    <string name="btn_text_select_file">Select file</string>
+    <string name="et_hint_enter_product_price">Введите цену на товар (в грн.)</string>
+    <string name="et_hint_enter_product_count">Введите количество товара</string>
+    <string name="et_hint_enter_product_description">Введите описание товара</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="et_hint_enter_reason_of_editing_product">Причина редактирования остатков товара</string>
+    <string name="btn_change_stats">ПРИХОД / РАСХОД</string>
+    <string name="btn_delete_text">УДАЛИТЬ ТОВАР</string>
+    <string name="btn_add_text">Добавить</string>
+    <string name="et_hint_prod_img">Введите ссылку на изображение товара</string>
+</resources>
